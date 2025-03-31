@@ -1,2 +1,2 @@
 # Excel-Sales-Analytics-Reports
-Atliq Hardware Sales Analytics: Performance Insights &amp; Data-Driven Decisions
+Atliq Hardware Business Analytics: Performance Insights &amp; Data-Driven Decisions
