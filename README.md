@@ -74,19 +74,33 @@ The company primarily operates under a B2B model, supplying products to major re
 3. DataWrapper: for Insights Visuals
 4. GitHub - for Documentation
 
-## Skills & Methodologies implemented:
-1. Data Cleaning: **ETL, Power Query**
-2. Data Manipulation: **VLOOKUP/INDEX-MATCH/XLOOKUP Table Joining, DAX Measures & Columns**
-3. Data Modelling and Normalization
-4. Data Visualization: **Pivot Table, Power Pivot, Conditional Formatting**
-5. Documentation
+## Skills & Methods Applied:
+1. Data Cleaning: Using **ETL techniques and Power Query**
+
+
+2. Data Manipulation: **VLOOKUP, INDEX-MATCH, XLOOKUP, and joining tables**
+
+
+3. DAX Measures & Columns: For advanced calculations (within **Excel Power Pivot**)
+
+
+4. Data Modeling: **Structuring and normalizing data** for analysis
+
+
+5. Data Visualization: Creating dashboards with **Pivot Tables, Power Pivot, and Conditional Formatting**
+
+
+6. Documentation: Organizing and presenting work clearly for future reference
+
+
 
 ---
 
 ## About the Dataset:
 ### Data Sources: Sales & Finance
 
-![image](https://github.com/5ifar/AtliQHardwares/assets/146955609/fc7d37af-acbf-4596-83dc-8335ee737b0b)
+![image](https://github.com/user-attachments/assets/224e84ed-099a-4b7a-bc00-b8fdb78c3afc)
+
 
 - dim_customer: 189 records | 5 columns
 - dim_market: 23 records | 3 columns
@@ -95,46 +109,47 @@ The company primarily operates under a B2B model, supplying products to major re
 - ns_targets_2021: 276 records | 3 columns
 - fact_sales_monthly_with_cost: 799962 records | 7 columns
 
-### Data Dictionary:
--to be added-
-
-## Data Integrity:
-ROCCC Evaluation:
-- Reliability: MED - The raw dataset is created and updated by Codebasics. It has 6 files.
-- Originality: HIGH - First party provider (Codebasics)
-- Comprehensiveness: MED - Total 6 CSV Files were provided. Dataset contains multiple parameters for Customers, Products & Markets as well as comprehensive Sales & Finance transaction data.
-- Current: LOW - Dataset was updated upto 2021, almost 3 years old. So its obsolete & not very relevant.
-- Citation: LOW - No official citation/reference available.
 
 ---
 
 ## Data Model:
 ### Entity Relationship Diagram (ERD):
 
-<img src="https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/Assets/AtliQ%20Hardware%20Data%20Model%20ERD%20Final.JPG" width="100%" height="100%">
+![image](https://github.com/user-attachments/assets/05b07cb3-4539-4f87-b061-354810354f3a)
+
 
 ---
 
 ## Analysis Insights:
 
-<img src="https://datawrapper.dwcdn.net/MYLHC/full.png" alt="" />
+![image](https://github.com/user-attachments/assets/e6b80f65-71e6-4448-a55a-38de7ddbf28a)
 
-<img src="https://datawrapper.dwcdn.net/qU7i7/full.png" alt="" />
 
-<img src="https://datawrapper.dwcdn.net/aLbnS/full.png" alt="" />
+![image](https://github.com/user-attachments/assets/0770322a-3b4b-4806-9453-ea2a411b179c)
 
-<img src="https://datawrapper.dwcdn.net/qxZsY/full.png" alt="" />
 
-<img src="https://datawrapper.dwcdn.net/j22dx/full.png" alt="" />
+![image](https://github.com/user-attachments/assets/3680b152-bdca-4c9a-bb86-d55a1cf59456)
 
-<img src="https://datawrapper.dwcdn.net/Xj08J/full.png" alt="" />
 
-<img src="https://datawrapper.dwcdn.net/OdCYE/full.png" alt="" />
+![image](https://github.com/user-attachments/assets/4fdb2ebb-c6f6-449b-9c73-bb555e45a858)
 
-<img src="https://datawrapper.dwcdn.net/mcbgG/full.png" alt="" />
 
-<img src="https://datawrapper.dwcdn.net/SxD4Y/full.png" alt="" />
+![image](https://github.com/user-attachments/assets/a5ce4042-8566-4509-a2ce-b189894c84d3)
 
-<img src="https://datawrapper.dwcdn.net/ITvwk/full.png" alt="" />
+
+![image](https://github.com/user-attachments/assets/e56216b4-8d86-4d34-8898-609fad649a2f)
+
+
+![image](https://github.com/user-attachments/assets/4ea2e2e1-adc7-4b08-b7c9-0308d827f623)
+
+
+![image](https://github.com/user-attachments/assets/6e63063b-631c-4543-b615-c31c9b258753)
+
+
+![image](https://github.com/user-attachments/assets/d1e0f458-f6e6-4969-a4e4-e1d0d19d9998)
+
+
+![image](https://github.com/user-attachments/assets/02b9066e-dedb-41ff-a1b4-d43bc9f58cd1)
+
 
 ---
