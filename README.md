@@ -38,27 +38,27 @@ The company primarily operates under a B2B model, supplying products to major re
 - Sales are conducted through three primary channels: Retailer, Direct, and Distributor.
 
   * Retailer Channel:
-   AtliQ’s customers in this channel include:
-  
-  
-  Brick & Mortar Stores (e.g., Croma, Best Buy)
-  
-  
-  E-commerce Platforms (e.g., Amazon, Flipkart)
+       AtliQ’s customers in this channel include:
+      
+      
+      Brick & Mortar Stores (e.g., Croma, Best Buy)
+      
+      
+      E-commerce Platforms (e.g., Amazon, Flipkart)
   
   
   * Direct Channel:
-   The company also follows a smaller B2C model through its own outlets, including:
-  
-  
-  AtliQ E-store
-  
-  
-  AtliQ Exclusive
+       The company also follows a smaller B2C model through its own outlets, including:
+      
+      
+      AtliQ E-store
+      
+      
+      AtliQ Exclusive
   
   
   * Distributor Channel:
-   In regions with restricted trade policies, AtliQ partners with local distributors, such as Neptune.
+       In regions with restricted trade policies, AtliQ partners with local distributors, such as Neptune.
 
 ## Problem Statement:
  AtliQ Hardwares has been experiencing substantial financial losses in recent years. One of the key issues identified is their continued reliance on handwritten reports for critical business decisions. This outdated approach has hindered their ability to make timely and data-driven decisions, creating an urgent need for actionable insights.
