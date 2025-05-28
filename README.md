@@ -15,7 +15,7 @@ Please note that project files are not included in this repository, in accordanc
 Please find the sectional links for the project below:
 - [Introduction](#introduction)
   - [Problem Statement](#problem-statement)
-- [AtliQ Hardware Compiled Report](https://github.com/rahulnshakya/Excel-Sales-Analytics-Reports/blob/d31452511d580026064d0a23f241e5920f0c5026/Sales%20Analytics/Customer%20Performance%20Report.pdf)
+- [AtliQ Hardware Compiled Report](https://github.com/rahulnshakya/Excel-Sales-Analytics-Reports/blob/f439210facb997a255467cccb23e047e6a75e5fc/AtliQ%20Hardware%20Compiled%20Report.pdf)
 - [Sales Analytics Reports](https://github.com/rahulnshakya/Excel-Sales-Analytics-Reports/tree/d31452511d580026064d0a23f241e5920f0c5026/Sales%20Analytics)
   - [Sales Analytics Reports Documentation](https://github.com/rahulnshakya/Excel-Sales-Analytics-Reports/blob/302f29a7b571a3d3134312b901b73bf2871a8ab9/Sales%20Analytics/Sales%20Analytics%20Reports%20Documentation.md)
 - [Finance Analytics Reports](https://github.com/rahulnshakya/Excel-Sales-Analytics-Reports/tree/f439210facb997a255467cccb23e047e6a75e5fc/Finance%20Analytics)
